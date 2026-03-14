@@ -10,3 +10,5 @@ After that, run it, then use it, it already explains most of the calculations it
 Maintainer & Creator: Dieselxue (https://github.com/dieselxue)
 
 Project Link: https://github.com/dieselxue/Python-Calculator
+
+License: https://github.com/dieselxue/Python-Calculator/blob/main/LICENSE
