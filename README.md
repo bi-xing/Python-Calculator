@@ -8,4 +8,5 @@ To use the code and run it, just copy it into your editor, or download the file 
 After that, run it, then use it, it already explains most of the calculations it can do via text.
 
 Maintainer & Creator: Dieselxue (https://github.com/dieselxue)
+
 Project Link: https://github.com/dieselxue/Python-Calculator
