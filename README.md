@@ -4,8 +4,9 @@ It can perform addition (+), subtraction (-), multiplication (*), division (/), 
 Some of the text and code may be in Indonesian.
 I plan to include more complex calculations in the future, like square roots, trigonometric functions, and memory functions.
 
-To use the code and run it, just copy it into an editor like Visual Studio Code, or download the 'simple calculator.py' file and open it in your terminal. For example, when using the linux terminal, go to the directory of the python file and use the command "python3 'simple calculator.py'" and the code will run in the terminal.
-After that, run it, then use it, it already explains most of the calculations it can do via text.
+To use the code and run it, just copy it into an editor like Visual Studio Code, or download the 'simple calculator.py' file and open it in your terminal.
+For example, when using the linux terminal, go to the directory of the python file and use the command "python3 'simple calculator.py'" and the code will run in the terminal.
+After that, you may use the program as you please, and feel free to modify and change the code to fit your needs.
 
 Maintainer & Creator: Dieselxue (https://github.com/dieselxue)
 
